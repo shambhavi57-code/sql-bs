@@ -1,121 +1,121 @@
-amfi_code,scheme_name,fund_house,category,plan,period,return_pct,anomaly_expense_ratio,anomaly_returns
-119551,SBI Bluechip Fund - Regular Plan - Growth,SBI Mutual Fund,Large Cap,Regular,return_1yr_pct,12.42,True,True
-119552,SBI Bluechip Fund - Direct Plan - Growth,SBI Mutual Fund,Large Cap,Direct,return_1yr_pct,15.25,True,True
-119598,SBI Small Cap Fund - Regular Plan - Growth,SBI Mutual Fund,Small Cap,Regular,return_1yr_pct,24.56,True,True
-119599,SBI Small Cap Fund - Direct Plan - Growth,SBI Mutual Fund,Small Cap,Direct,return_1yr_pct,20.59,True,True
-119120,SBI Magnum Gilt Fund - Regular Plan - Growth,SBI Mutual Fund,Gilt,Regular,return_1yr_pct,5.34,True,True
-100016,HDFC Top 100 Fund - Regular Plan - Growth,HDFC Mutual Fund,Large Cap,Regular,return_1yr_pct,10.94,True,True
-125497,HDFC Top 100 Fund - Direct Plan - Growth,HDFC Mutual Fund,Large Cap,Direct,return_1yr_pct,11.48,True,True
-100033,HDFC Mid-Cap Opportunities Fund - Regular - Growth,HDFC Mutual Fund,Mid Cap,Regular,return_1yr_pct,15.43,True,True
-125498,HDFC Mid-Cap Opportunities Fund - Direct - Growth,HDFC Mutual Fund,Mid Cap,Direct,return_1yr_pct,19.98,True,True
-100025,HDFC Short Term Debt Fund - Regular - Growth,HDFC Mutual Fund,Short Duration,Regular,return_1yr_pct,6.83,True,True
-120503,ICICI Pru Bluechip Fund - Regular - Growth,ICICI Prudential MF,Large Cap,Regular,return_1yr_pct,15.63,True,True
-120504,ICICI Pru Bluechip Fund - Direct - Growth,ICICI Prudential MF,Large Cap,Direct,return_1yr_pct,14.12,True,True
-120505,ICICI Pru Midcap Fund - Regular - Growth,ICICI Prudential MF,Mid Cap,Regular,return_1yr_pct,14.02,True,True
-120506,ICICI Pru Value Discovery Fund - Regular - Growth,ICICI Prudential MF,Value,Regular,return_1yr_pct,16.67,True,True
-120507,ICICI Pru Liquid Fund - Regular - Growth,ICICI Prudential MF,Liquid,Regular,return_1yr_pct,8.89,True,True
-118632,Nippon India Large Cap Fund - Regular - Growth,Nippon India MF,Large Cap,Regular,return_1yr_pct,15.84,True,True
-118633,Nippon India Large Cap Fund - Direct - Growth,Nippon India MF,Large Cap,Direct,return_1yr_pct,14.42,True,True
-118634,Nippon India Small Cap Fund - Regular - Growth,Nippon India MF,Small Cap,Regular,return_1yr_pct,21.3,True,True
-118635,Nippon India ETF Nifty 50 BeES,Nippon India MF,Index/ETF,Direct,return_1yr_pct,10.14,True,True
-118636,Nippon India Gilt Securities Fund - Regular - Growth,Nippon India MF,Gilt,Regular,return_1yr_pct,6.19,True,True
-120841,Kotak Bluechip Fund - Regular - Growth,Kotak Mahindra MF,Large Cap,Regular,return_1yr_pct,14.37,True,True
-120842,Kotak Emerging Equity Fund - Regular - Growth,Kotak Mahindra MF,Mid Cap,Regular,return_1yr_pct,17.12,True,True
-120843,Kotak Flexicap Fund - Regular - Growth,Kotak Mahindra MF,Flexi Cap,Regular,return_1yr_pct,15.74,True,True
-120844,Kotak Liquid Fund - Regular - Growth,Kotak Mahindra MF,Liquid,Regular,return_1yr_pct,4.26,True,True
-119092,Axis Bluechip Fund - Regular - Growth,Axis Mutual Fund,Large Cap,Regular,return_1yr_pct,11.82,True,True
-119093,Axis Bluechip Fund - Direct - Growth,Axis Mutual Fund,Large Cap,Direct,return_1yr_pct,13.95,True,True
-119094,Axis Midcap Fund - Regular - Growth,Axis Mutual Fund,Mid Cap,Regular,return_1yr_pct,14.88,True,True
-119095,Axis Small Cap Fund - Regular - Growth,Axis Mutual Fund,Small Cap,Regular,return_1yr_pct,21.97,True,True
-101206,ABSL Frontline Equity Fund - Regular - Growth,Aditya Birla Sun Life MF,Large Cap,Regular,return_1yr_pct,14.82,True,True
-101207,ABSL Small Cap Fund - Regular - Growth,Aditya Birla Sun Life MF,Small Cap,Regular,return_1yr_pct,24.93,True,True
-101208,ABSL Liquid Fund - Regular - Growth,Aditya Birla Sun Life MF,Liquid,Regular,return_1yr_pct,6.18,True,True
-102885,UTI Nifty 50 Index Fund - Regular - Growth,UTI Mutual Fund,Index,Regular,return_1yr_pct,13.76,True,True
-102886,UTI Mid Cap Fund - Regular - Growth,UTI Mutual Fund,Mid Cap,Regular,return_1yr_pct,16.3,True,True
-102887,UTI Flexi Cap Fund - Regular - Growth,UTI Mutual Fund,Flexi Cap,Regular,return_1yr_pct,17.43,True,True
-148567,Mirae Asset Large Cap Fund - Regular - Growth,Mirae Asset MF,Large Cap,Regular,return_1yr_pct,15.12,True,True
-148568,Mirae Asset Emerging Bluechip Fund - Regular - Growth,Mirae Asset MF,Large & Mid Cap,Regular,return_1yr_pct,14.91,True,True
-148569,Mirae Asset Tax Saver Fund - Regular - Growth,Mirae Asset MF,ELSS,Regular,return_1yr_pct,11.16,True,True
-149322,DSP Top 100 Equity Fund - Regular - Growth,DSP Mutual Fund,Large Cap,Regular,return_1yr_pct,11.96,True,True
-149323,DSP Midcap Fund - Regular - Growth,DSP Mutual Fund,Mid Cap,Regular,return_1yr_pct,14.12,True,True
-149324,DSP Small Cap Fund - Regular - Growth,DSP Mutual Fund,Small Cap,Regular,return_1yr_pct,20.2,True,True
-119551,SBI Bluechip Fund - Regular Plan - Growth,SBI Mutual Fund,Large Cap,Regular,return_3yr_pct,12.36,,True
-119552,SBI Bluechip Fund - Direct Plan - Growth,SBI Mutual Fund,Large Cap,Direct,return_3yr_pct,11.3,,True
-119598,SBI Small Cap Fund - Regular Plan - Growth,SBI Mutual Fund,Small Cap,Regular,return_3yr_pct,23.39,,True
-119599,SBI Small Cap Fund - Direct Plan - Growth,SBI Mutual Fund,Small Cap,Direct,return_3yr_pct,23.14,,True
-119120,SBI Magnum Gilt Fund - Regular Plan - Growth,SBI Mutual Fund,Gilt,Regular,return_3yr_pct,6.07,,True
-100016,HDFC Top 100 Fund - Regular Plan - Growth,HDFC Mutual Fund,Large Cap,Regular,return_3yr_pct,14.84,,True
-125497,HDFC Top 100 Fund - Direct Plan - Growth,HDFC Mutual Fund,Large Cap,Direct,return_3yr_pct,13.38,,True
-100033,HDFC Mid-Cap Opportunities Fund - Regular - Growth,HDFC Mutual Fund,Mid Cap,Regular,return_3yr_pct,16.58,,True
-125498,HDFC Mid-Cap Opportunities Fund - Direct - Growth,HDFC Mutual Fund,Mid Cap,Direct,return_3yr_pct,15.29,,True
-100025,HDFC Short Term Debt Fund - Regular - Growth,HDFC Mutual Fund,Short Duration,Regular,return_3yr_pct,7.37,,True
-120503,ICICI Pru Bluechip Fund - Regular - Growth,ICICI Prudential MF,Large Cap,Regular,return_3yr_pct,11.54,,True
-120504,ICICI Pru Bluechip Fund - Direct - Growth,ICICI Prudential MF,Large Cap,Direct,return_3yr_pct,14.41,,True
-120505,ICICI Pru Midcap Fund - Regular - Growth,ICICI Prudential MF,Mid Cap,Regular,return_3yr_pct,18.08,,True
-120506,ICICI Pru Value Discovery Fund - Regular - Growth,ICICI Prudential MF,Value,Regular,return_3yr_pct,14.76,,True
-120507,ICICI Pru Liquid Fund - Regular - Growth,ICICI Prudential MF,Liquid,Regular,return_3yr_pct,7.68,,True
-118632,Nippon India Large Cap Fund - Regular - Growth,Nippon India MF,Large Cap,Regular,return_3yr_pct,14.0,,True
-118633,Nippon India Large Cap Fund - Direct - Growth,Nippon India MF,Large Cap,Direct,return_3yr_pct,12.33,,True
-118634,Nippon India Small Cap Fund - Regular - Growth,Nippon India MF,Small Cap,Regular,return_3yr_pct,20.15,,True
-118635,Nippon India ETF Nifty 50 BeES,Nippon India MF,Index/ETF,Direct,return_3yr_pct,11.77,,True
-118636,Nippon India Gilt Securities Fund - Regular - Growth,Nippon India MF,Gilt,Regular,return_3yr_pct,5.31,,True
-120841,Kotak Bluechip Fund - Regular - Growth,Kotak Mahindra MF,Large Cap,Regular,return_3yr_pct,12.25,,True
-120842,Kotak Emerging Equity Fund - Regular - Growth,Kotak Mahindra MF,Mid Cap,Regular,return_3yr_pct,18.23,,True
-120843,Kotak Flexicap Fund - Regular - Growth,Kotak Mahindra MF,Flexi Cap,Regular,return_3yr_pct,15.65,,True
-120844,Kotak Liquid Fund - Regular - Growth,Kotak Mahindra MF,Liquid,Regular,return_3yr_pct,6.18,,True
-119092,Axis Bluechip Fund - Regular - Growth,Axis Mutual Fund,Large Cap,Regular,return_3yr_pct,11.84,,True
-119093,Axis Bluechip Fund - Direct - Growth,Axis Mutual Fund,Large Cap,Direct,return_3yr_pct,12.14,,True
-119094,Axis Midcap Fund - Regular - Growth,Axis Mutual Fund,Mid Cap,Regular,return_3yr_pct,15.18,,True
-119095,Axis Small Cap Fund - Regular - Growth,Axis Mutual Fund,Small Cap,Regular,return_3yr_pct,20.98,,True
-101206,ABSL Frontline Equity Fund - Regular - Growth,Aditya Birla Sun Life MF,Large Cap,Regular,return_3yr_pct,13.78,,True
-101207,ABSL Small Cap Fund - Regular - Growth,Aditya Birla Sun Life MF,Small Cap,Regular,return_3yr_pct,22.38,,True
-101208,ABSL Liquid Fund - Regular - Growth,Aditya Birla Sun Life MF,Liquid,Regular,return_3yr_pct,5.14,,True
-102885,UTI Nifty 50 Index Fund - Regular - Growth,UTI Mutual Fund,Index,Regular,return_3yr_pct,12.1,,True
-102886,UTI Mid Cap Fund - Regular - Growth,UTI Mutual Fund,Mid Cap,Regular,return_3yr_pct,15.61,,True
-102887,UTI Flexi Cap Fund - Regular - Growth,UTI Mutual Fund,Flexi Cap,Regular,return_3yr_pct,15.34,,True
-148567,Mirae Asset Large Cap Fund - Regular - Growth,Mirae Asset MF,Large Cap,Regular,return_3yr_pct,14.81,,True
-148568,Mirae Asset Emerging Bluechip Fund - Regular - Growth,Mirae Asset MF,Large & Mid Cap,Regular,return_3yr_pct,14.56,,True
-148569,Mirae Asset Tax Saver Fund - Regular - Growth,Mirae Asset MF,ELSS,Regular,return_3yr_pct,13.58,,True
-149322,DSP Top 100 Equity Fund - Regular - Growth,DSP Mutual Fund,Large Cap,Regular,return_3yr_pct,12.82,,True
-149323,DSP Midcap Fund - Regular - Growth,DSP Mutual Fund,Mid Cap,Regular,return_3yr_pct,17.16,,True
-149324,DSP Small Cap Fund - Regular - Growth,DSP Mutual Fund,Small Cap,Regular,return_3yr_pct,20.08,,True
-119551,SBI Bluechip Fund - Regular Plan - Growth,SBI Mutual Fund,Large Cap,Regular,return_5yr_pct,14.45,,True
-119552,SBI Bluechip Fund - Direct Plan - Growth,SBI Mutual Fund,Large Cap,Direct,return_5yr_pct,14.23,,True
-119598,SBI Small Cap Fund - Regular Plan - Growth,SBI Mutual Fund,Small Cap,Regular,return_5yr_pct,20.67,,True
-119599,SBI Small Cap Fund - Direct Plan - Growth,SBI Mutual Fund,Small Cap,Direct,return_5yr_pct,21.82,,True
-119120,SBI Magnum Gilt Fund - Regular Plan - Growth,SBI Mutual Fund,Gilt,Regular,return_5yr_pct,5.43,,True
-100016,HDFC Top 100 Fund - Regular Plan - Growth,HDFC Mutual Fund,Large Cap,Regular,return_5yr_pct,11.32,,True
-125497,HDFC Top 100 Fund - Direct Plan - Growth,HDFC Mutual Fund,Large Cap,Direct,return_5yr_pct,13.48,,True
-100033,HDFC Mid-Cap Opportunities Fund - Regular - Growth,HDFC Mutual Fund,Mid Cap,Regular,return_5yr_pct,17.69,,True
-125498,HDFC Mid-Cap Opportunities Fund - Direct - Growth,HDFC Mutual Fund,Mid Cap,Direct,return_5yr_pct,15.85,,True
-100025,HDFC Short Term Debt Fund - Regular - Growth,HDFC Mutual Fund,Short Duration,Regular,return_5yr_pct,6.41,,True
-120503,ICICI Pru Bluechip Fund - Regular - Growth,ICICI Prudential MF,Large Cap,Regular,return_5yr_pct,11.46,,True
-120504,ICICI Pru Bluechip Fund - Direct - Growth,ICICI Prudential MF,Large Cap,Direct,return_5yr_pct,13.02,,True
-120505,ICICI Pru Midcap Fund - Regular - Growth,ICICI Prudential MF,Mid Cap,Regular,return_5yr_pct,17.55,,True
-120506,ICICI Pru Value Discovery Fund - Regular - Growth,ICICI Prudential MF,Value,Regular,return_5yr_pct,12.6,,True
-120507,ICICI Pru Liquid Fund - Regular - Growth,ICICI Prudential MF,Liquid,Regular,return_5yr_pct,7.94,,True
-118632,Nippon India Large Cap Fund - Regular - Growth,Nippon India MF,Large Cap,Regular,return_5yr_pct,14.7,,True
-118633,Nippon India Large Cap Fund - Direct - Growth,Nippon India MF,Large Cap,Direct,return_5yr_pct,14.72,,True
-118634,Nippon India Small Cap Fund - Regular - Growth,Nippon India MF,Small Cap,Regular,return_5yr_pct,21.88,,True
-118635,Nippon India ETF Nifty 50 BeES,Nippon India MF,Index/ETF,Direct,return_5yr_pct,12.31,,True
-118636,Nippon India Gilt Securities Fund - Regular - Growth,Nippon India MF,Gilt,Regular,return_5yr_pct,8.71,,True
-120841,Kotak Bluechip Fund - Regular - Growth,Kotak Mahindra MF,Large Cap,Regular,return_5yr_pct,13.42,,True
-120842,Kotak Emerging Equity Fund - Regular - Growth,Kotak Mahindra MF,Mid Cap,Regular,return_5yr_pct,17.75,,True
-120843,Kotak Flexicap Fund - Regular - Growth,Kotak Mahindra MF,Flexi Cap,Regular,return_5yr_pct,13.5,,True
-120844,Kotak Liquid Fund - Regular - Growth,Kotak Mahindra MF,Liquid,Regular,return_5yr_pct,8.26,,True
-119092,Axis Bluechip Fund - Regular - Growth,Axis Mutual Fund,Large Cap,Regular,return_5yr_pct,14.14,,True
-119093,Axis Bluechip Fund - Direct - Growth,Axis Mutual Fund,Large Cap,Direct,return_5yr_pct,13.66,,True
-119094,Axis Midcap Fund - Regular - Growth,Axis Mutual Fund,Mid Cap,Regular,return_5yr_pct,18.94,,True
-119095,Axis Small Cap Fund - Regular - Growth,Axis Mutual Fund,Small Cap,Regular,return_5yr_pct,22.62,,True
-101206,ABSL Frontline Equity Fund - Regular - Growth,Aditya Birla Sun Life MF,Large Cap,Regular,return_5yr_pct,12.86,,True
-101207,ABSL Small Cap Fund - Regular - Growth,Aditya Birla Sun Life MF,Small Cap,Regular,return_5yr_pct,23.8,,True
-101208,ABSL Liquid Fund - Regular - Growth,Aditya Birla Sun Life MF,Liquid,Regular,return_5yr_pct,7.95,,True
-102885,UTI Nifty 50 Index Fund - Regular - Growth,UTI Mutual Fund,Index,Regular,return_5yr_pct,11.31,,True
-102886,UTI Mid Cap Fund - Regular - Growth,UTI Mutual Fund,Mid Cap,Regular,return_5yr_pct,15.86,,True
-102887,UTI Flexi Cap Fund - Regular - Growth,UTI Mutual Fund,Flexi Cap,Regular,return_5yr_pct,15.78,,True
-148567,Mirae Asset Large Cap Fund - Regular - Growth,Mirae Asset MF,Large Cap,Regular,return_5yr_pct,12.68,,True
-148568,Mirae Asset Emerging Bluechip Fund - Regular - Growth,Mirae Asset MF,Large & Mid Cap,Regular,return_5yr_pct,15.68,,True
-148569,Mirae Asset Tax Saver Fund - Regular - Growth,Mirae Asset MF,ELSS,Regular,return_5yr_pct,14.26,,True
-149322,DSP Top 100 Equity Fund - Regular - Growth,DSP Mutual Fund,Large Cap,Regular,return_5yr_pct,12.35,,True
-149323,DSP Midcap Fund - Regular - Growth,DSP Mutual Fund,Mid Cap,Regular,return_5yr_pct,19.0,,True
-149324,DSP Small Cap Fund - Regular - Growth,DSP Mutual Fund,Small Cap,Regular,return_5yr_pct,20.61,,True
+amfi_code,scheme_name,fund_house,category,plan,period,return_pct,anomaly_returns
+119551,SBI Bluechip Fund - Regular Plan - Growth,SBI Mutual Fund,Large Cap,Regular,return_1yr_pct,12.42,True
+119552,SBI Bluechip Fund - Direct Plan - Growth,SBI Mutual Fund,Large Cap,Direct,return_1yr_pct,15.25,True
+119598,SBI Small Cap Fund - Regular Plan - Growth,SBI Mutual Fund,Small Cap,Regular,return_1yr_pct,24.56,True
+119599,SBI Small Cap Fund - Direct Plan - Growth,SBI Mutual Fund,Small Cap,Direct,return_1yr_pct,20.59,True
+119120,SBI Magnum Gilt Fund - Regular Plan - Growth,SBI Mutual Fund,Gilt,Regular,return_1yr_pct,5.34,True
+100016,HDFC Top 100 Fund - Regular Plan - Growth,HDFC Mutual Fund,Large Cap,Regular,return_1yr_pct,10.94,True
+125497,HDFC Top 100 Fund - Direct Plan - Growth,HDFC Mutual Fund,Large Cap,Direct,return_1yr_pct,11.48,True
+100033,HDFC Mid-Cap Opportunities Fund - Regular - Growth,HDFC Mutual Fund,Mid Cap,Regular,return_1yr_pct,15.43,True
+125498,HDFC Mid-Cap Opportunities Fund - Direct - Growth,HDFC Mutual Fund,Mid Cap,Direct,return_1yr_pct,19.98,True
+100025,HDFC Short Term Debt Fund - Regular - Growth,HDFC Mutual Fund,Short Duration,Regular,return_1yr_pct,6.83,True
+120503,ICICI Pru Bluechip Fund - Regular - Growth,ICICI Prudential MF,Large Cap,Regular,return_1yr_pct,15.63,True
+120504,ICICI Pru Bluechip Fund - Direct - Growth,ICICI Prudential MF,Large Cap,Direct,return_1yr_pct,14.12,True
+120505,ICICI Pru Midcap Fund - Regular - Growth,ICICI Prudential MF,Mid Cap,Regular,return_1yr_pct,14.02,True
+120506,ICICI Pru Value Discovery Fund - Regular - Growth,ICICI Prudential MF,Value,Regular,return_1yr_pct,16.67,True
+120507,ICICI Pru Liquid Fund - Regular - Growth,ICICI Prudential MF,Liquid,Regular,return_1yr_pct,8.89,True
+118632,Nippon India Large Cap Fund - Regular - Growth,Nippon India MF,Large Cap,Regular,return_1yr_pct,15.84,True
+118633,Nippon India Large Cap Fund - Direct - Growth,Nippon India MF,Large Cap,Direct,return_1yr_pct,14.42,True
+118634,Nippon India Small Cap Fund - Regular - Growth,Nippon India MF,Small Cap,Regular,return_1yr_pct,21.3,True
+118635,Nippon India ETF Nifty 50 BeES,Nippon India MF,Index/ETF,Direct,return_1yr_pct,10.14,True
+118636,Nippon India Gilt Securities Fund - Regular - Growth,Nippon India MF,Gilt,Regular,return_1yr_pct,6.19,True
+120841,Kotak Bluechip Fund - Regular - Growth,Kotak Mahindra MF,Large Cap,Regular,return_1yr_pct,14.37,True
+120842,Kotak Emerging Equity Fund - Regular - Growth,Kotak Mahindra MF,Mid Cap,Regular,return_1yr_pct,17.12,True
+120843,Kotak Flexicap Fund - Regular - Growth,Kotak Mahindra MF,Flexi Cap,Regular,return_1yr_pct,15.74,True
+120844,Kotak Liquid Fund - Regular - Growth,Kotak Mahindra MF,Liquid,Regular,return_1yr_pct,4.26,True
+119092,Axis Bluechip Fund - Regular - Growth,Axis Mutual Fund,Large Cap,Regular,return_1yr_pct,11.82,True
+119093,Axis Bluechip Fund - Direct - Growth,Axis Mutual Fund,Large Cap,Direct,return_1yr_pct,13.95,True
+119094,Axis Midcap Fund - Regular - Growth,Axis Mutual Fund,Mid Cap,Regular,return_1yr_pct,14.88,True
+119095,Axis Small Cap Fund - Regular - Growth,Axis Mutual Fund,Small Cap,Regular,return_1yr_pct,21.97,True
+101206,ABSL Frontline Equity Fund - Regular - Growth,Aditya Birla Sun Life MF,Large Cap,Regular,return_1yr_pct,14.82,True
+101207,ABSL Small Cap Fund - Regular - Growth,Aditya Birla Sun Life MF,Small Cap,Regular,return_1yr_pct,24.93,True
+101208,ABSL Liquid Fund - Regular - Growth,Aditya Birla Sun Life MF,Liquid,Regular,return_1yr_pct,6.18,True
+102885,UTI Nifty 50 Index Fund - Regular - Growth,UTI Mutual Fund,Index,Regular,return_1yr_pct,13.76,True
+102886,UTI Mid Cap Fund - Regular - Growth,UTI Mutual Fund,Mid Cap,Regular,return_1yr_pct,16.3,True
+102887,UTI Flexi Cap Fund - Regular - Growth,UTI Mutual Fund,Flexi Cap,Regular,return_1yr_pct,17.43,True
+148567,Mirae Asset Large Cap Fund - Regular - Growth,Mirae Asset MF,Large Cap,Regular,return_1yr_pct,15.12,True
+148568,Mirae Asset Emerging Bluechip Fund - Regular - Growth,Mirae Asset MF,Large & Mid Cap,Regular,return_1yr_pct,14.91,True
+148569,Mirae Asset Tax Saver Fund - Regular - Growth,Mirae Asset MF,ELSS,Regular,return_1yr_pct,11.16,True
+149322,DSP Top 100 Equity Fund - Regular - Growth,DSP Mutual Fund,Large Cap,Regular,return_1yr_pct,11.96,True
+149323,DSP Midcap Fund - Regular - Growth,DSP Mutual Fund,Mid Cap,Regular,return_1yr_pct,14.12,True
+149324,DSP Small Cap Fund - Regular - Growth,DSP Mutual Fund,Small Cap,Regular,return_1yr_pct,20.2,True
+119551,SBI Bluechip Fund - Regular Plan - Growth,SBI Mutual Fund,Large Cap,Regular,return_3yr_pct,12.36,True
+119552,SBI Bluechip Fund - Direct Plan - Growth,SBI Mutual Fund,Large Cap,Direct,return_3yr_pct,11.3,True
+119598,SBI Small Cap Fund - Regular Plan - Growth,SBI Mutual Fund,Small Cap,Regular,return_3yr_pct,23.39,True
+119599,SBI Small Cap Fund - Direct Plan - Growth,SBI Mutual Fund,Small Cap,Direct,return_3yr_pct,23.14,True
+119120,SBI Magnum Gilt Fund - Regular Plan - Growth,SBI Mutual Fund,Gilt,Regular,return_3yr_pct,6.07,True
+100016,HDFC Top 100 Fund - Regular Plan - Growth,HDFC Mutual Fund,Large Cap,Regular,return_3yr_pct,14.84,True
+125497,HDFC Top 100 Fund - Direct Plan - Growth,HDFC Mutual Fund,Large Cap,Direct,return_3yr_pct,13.38,True
+100033,HDFC Mid-Cap Opportunities Fund - Regular - Growth,HDFC Mutual Fund,Mid Cap,Regular,return_3yr_pct,16.58,True
+125498,HDFC Mid-Cap Opportunities Fund - Direct - Growth,HDFC Mutual Fund,Mid Cap,Direct,return_3yr_pct,15.29,True
+100025,HDFC Short Term Debt Fund - Regular - Growth,HDFC Mutual Fund,Short Duration,Regular,return_3yr_pct,7.37,True
+120503,ICICI Pru Bluechip Fund - Regular - Growth,ICICI Prudential MF,Large Cap,Regular,return_3yr_pct,11.54,True
+120504,ICICI Pru Bluechip Fund - Direct - Growth,ICICI Prudential MF,Large Cap,Direct,return_3yr_pct,14.41,True
+120505,ICICI Pru Midcap Fund - Regular - Growth,ICICI Prudential MF,Mid Cap,Regular,return_3yr_pct,18.08,True
+120506,ICICI Pru Value Discovery Fund - Regular - Growth,ICICI Prudential MF,Value,Regular,return_3yr_pct,14.76,True
+120507,ICICI Pru Liquid Fund - Regular - Growth,ICICI Prudential MF,Liquid,Regular,return_3yr_pct,7.68,True
+118632,Nippon India Large Cap Fund - Regular - Growth,Nippon India MF,Large Cap,Regular,return_3yr_pct,14.0,True
+118633,Nippon India Large Cap Fund - Direct - Growth,Nippon India MF,Large Cap,Direct,return_3yr_pct,12.33,True
+118634,Nippon India Small Cap Fund - Regular - Growth,Nippon India MF,Small Cap,Regular,return_3yr_pct,20.15,True
+118635,Nippon India ETF Nifty 50 BeES,Nippon India MF,Index/ETF,Direct,return_3yr_pct,11.77,True
+118636,Nippon India Gilt Securities Fund - Regular - Growth,Nippon India MF,Gilt,Regular,return_3yr_pct,5.31,True
+120841,Kotak Bluechip Fund - Regular - Growth,Kotak Mahindra MF,Large Cap,Regular,return_3yr_pct,12.25,True
+120842,Kotak Emerging Equity Fund - Regular - Growth,Kotak Mahindra MF,Mid Cap,Regular,return_3yr_pct,18.23,True
+120843,Kotak Flexicap Fund - Regular - Growth,Kotak Mahindra MF,Flexi Cap,Regular,return_3yr_pct,15.65,True
+120844,Kotak Liquid Fund - Regular - Growth,Kotak Mahindra MF,Liquid,Regular,return_3yr_pct,6.18,True
+119092,Axis Bluechip Fund - Regular - Growth,Axis Mutual Fund,Large Cap,Regular,return_3yr_pct,11.84,True
+119093,Axis Bluechip Fund - Direct - Growth,Axis Mutual Fund,Large Cap,Direct,return_3yr_pct,12.14,True
+119094,Axis Midcap Fund - Regular - Growth,Axis Mutual Fund,Mid Cap,Regular,return_3yr_pct,15.18,True
+119095,Axis Small Cap Fund - Regular - Growth,Axis Mutual Fund,Small Cap,Regular,return_3yr_pct,20.98,True
+101206,ABSL Frontline Equity Fund - Regular - Growth,Aditya Birla Sun Life MF,Large Cap,Regular,return_3yr_pct,13.78,True
+101207,ABSL Small Cap Fund - Regular - Growth,Aditya Birla Sun Life MF,Small Cap,Regular,return_3yr_pct,22.38,True
+101208,ABSL Liquid Fund - Regular - Growth,Aditya Birla Sun Life MF,Liquid,Regular,return_3yr_pct,5.14,True
+102885,UTI Nifty 50 Index Fund - Regular - Growth,UTI Mutual Fund,Index,Regular,return_3yr_pct,12.1,True
+102886,UTI Mid Cap Fund - Regular - Growth,UTI Mutual Fund,Mid Cap,Regular,return_3yr_pct,15.61,True
+102887,UTI Flexi Cap Fund - Regular - Growth,UTI Mutual Fund,Flexi Cap,Regular,return_3yr_pct,15.34,True
+148567,Mirae Asset Large Cap Fund - Regular - Growth,Mirae Asset MF,Large Cap,Regular,return_3yr_pct,14.81,True
+148568,Mirae Asset Emerging Bluechip Fund - Regular - Growth,Mirae Asset MF,Large & Mid Cap,Regular,return_3yr_pct,14.56,True
+148569,Mirae Asset Tax Saver Fund - Regular - Growth,Mirae Asset MF,ELSS,Regular,return_3yr_pct,13.58,True
+149322,DSP Top 100 Equity Fund - Regular - Growth,DSP Mutual Fund,Large Cap,Regular,return_3yr_pct,12.82,True
+149323,DSP Midcap Fund - Regular - Growth,DSP Mutual Fund,Mid Cap,Regular,return_3yr_pct,17.16,True
+149324,DSP Small Cap Fund - Regular - Growth,DSP Mutual Fund,Small Cap,Regular,return_3yr_pct,20.08,True
+119551,SBI Bluechip Fund - Regular Plan - Growth,SBI Mutual Fund,Large Cap,Regular,return_5yr_pct,14.45,True
+119552,SBI Bluechip Fund - Direct Plan - Growth,SBI Mutual Fund,Large Cap,Direct,return_5yr_pct,14.23,True
+119598,SBI Small Cap Fund - Regular Plan - Growth,SBI Mutual Fund,Small Cap,Regular,return_5yr_pct,20.67,True
+119599,SBI Small Cap Fund - Direct Plan - Growth,SBI Mutual Fund,Small Cap,Direct,return_5yr_pct,21.82,True
+119120,SBI Magnum Gilt Fund - Regular Plan - Growth,SBI Mutual Fund,Gilt,Regular,return_5yr_pct,5.43,True
+100016,HDFC Top 100 Fund - Regular Plan - Growth,HDFC Mutual Fund,Large Cap,Regular,return_5yr_pct,11.32,True
+125497,HDFC Top 100 Fund - Direct Plan - Growth,HDFC Mutual Fund,Large Cap,Direct,return_5yr_pct,13.48,True
+100033,HDFC Mid-Cap Opportunities Fund - Regular - Growth,HDFC Mutual Fund,Mid Cap,Regular,return_5yr_pct,17.69,True
+125498,HDFC Mid-Cap Opportunities Fund - Direct - Growth,HDFC Mutual Fund,Mid Cap,Direct,return_5yr_pct,15.85,True
+100025,HDFC Short Term Debt Fund - Regular - Growth,HDFC Mutual Fund,Short Duration,Regular,return_5yr_pct,6.41,True
+120503,ICICI Pru Bluechip Fund - Regular - Growth,ICICI Prudential MF,Large Cap,Regular,return_5yr_pct,11.46,True
+120504,ICICI Pru Bluechip Fund - Direct - Growth,ICICI Prudential MF,Large Cap,Direct,return_5yr_pct,13.02,True
+120505,ICICI Pru Midcap Fund - Regular - Growth,ICICI Prudential MF,Mid Cap,Regular,return_5yr_pct,17.55,True
+120506,ICICI Pru Value Discovery Fund - Regular - Growth,ICICI Prudential MF,Value,Regular,return_5yr_pct,12.6,True
+120507,ICICI Pru Liquid Fund - Regular - Growth,ICICI Prudential MF,Liquid,Regular,return_5yr_pct,7.94,True
+118632,Nippon India Large Cap Fund - Regular - Growth,Nippon India MF,Large Cap,Regular,return_5yr_pct,14.7,True
+118633,Nippon India Large Cap Fund - Direct - Growth,Nippon India MF,Large Cap,Direct,return_5yr_pct,14.72,True
+118634,Nippon India Small Cap Fund - Regular - Growth,Nippon India MF,Small Cap,Regular,return_5yr_pct,21.88,True
+118635,Nippon India ETF Nifty 50 BeES,Nippon India MF,Index/ETF,Direct,return_5yr_pct,12.31,True
+118636,Nippon India Gilt Securities Fund - Regular - Growth,Nippon India MF,Gilt,Regular,return_5yr_pct,8.71,True
+120841,Kotak Bluechip Fund - Regular - Growth,Kotak Mahindra MF,Large Cap,Regular,return_5yr_pct,13.42,True
+120842,Kotak Emerging Equity Fund - Regular - Growth,Kotak Mahindra MF,Mid Cap,Regular,return_5yr_pct,17.75,True
+120843,Kotak Flexicap Fund - Regular - Growth,Kotak Mahindra MF,Flexi Cap,Regular,return_5yr_pct,13.5,True
+120844,Kotak Liquid Fund - Regular - Growth,Kotak Mahindra MF,Liquid,Regular,return_5yr_pct,8.26,True
+119092,Axis Bluechip Fund - Regular - Growth,Axis Mutual Fund,Large Cap,Regular,return_5yr_pct,14.14,True
+119093,Axis Bluechip Fund - Direct - Growth,Axis Mutual Fund,Large Cap,Direct,return_5yr_pct,13.66,True
+119094,Axis Midcap Fund - Regular - Growth,Axis Mutual Fund,Mid Cap,Regular,return_5yr_pct,18.94,True
+119095,Axis Small Cap Fund - Regular - Growth,Axis Mutual Fund,Small Cap,Regular,return_5yr_pct,22.62,True
+101206,ABSL Frontline Equity Fund - Regular - Growth,Aditya Birla Sun Life MF,Large Cap,Regular,return_5yr_pct,12.86,True
+101207,ABSL Small Cap Fund - Regular - Growth,Aditya Birla Sun Life MF,Small Cap,Regular,return_5yr_pct,23.8,True
+101208,ABSL Liquid Fund - Regular - Growth,Aditya Birla Sun Life MF,Liquid,Regular,return_5yr_pct,7.95,True
+102885,UTI Nifty 50 Index Fund - Regular - Growth,UTI Mutual Fund,Index,Regular,return_5yr_pct,11.31,True
+102886,UTI Mid Cap Fund - Regular - Growth,UTI Mutual Fund,Mid Cap,Regular,return_5yr_pct,15.86,True
+102887,UTI Flexi Cap Fund - Regular - Growth,UTI Mutual Fund,Flexi Cap,Regular,return_5yr_pct,15.78,True
+148567,Mirae Asset Large Cap Fund - Regular - Growth,Mirae Asset MF,Large Cap,Regular,return_5yr_pct,12.68,True
+148568,Mirae Asset Emerging Bluechip Fund - Regular - Growth,Mirae Asset MF,Large & Mid Cap,Regular,return_5yr_pct,15.68,True
+148569,Mirae Asset Tax Saver Fund - Regular - Growth,Mirae Asset MF,ELSS,Regular,return_5yr_pct,14.26,True
+149322,DSP Top 100 Equity Fund - Regular - Growth,DSP Mutual Fund,Large Cap,Regular,return_5yr_pct,12.35,True
+149323,DSP Midcap Fund - Regular - Growth,DSP Mutual Fund,Mid Cap,Regular,return_5yr_pct,19.0,True
+149324,DSP Small Cap Fund - Regular - Growth,DSP Mutual Fund,Small Cap,Regular,return_5yr_pct,20.61,True
