@@ -10,8 +10,6 @@ if os.path.exists(file_path):
     
     #Standardize transaction types
     df['transaction_type'] = df['transaction_type'].str.upper().str.strip()
-    
-    #Validate amount > 0
     df = df[df['amount_inr'] > 0]
     
     # 3. Fix date formats

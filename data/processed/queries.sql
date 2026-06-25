@@ -1,0 +1,10 @@
+SELECT scheme_name, return_pct FROM fact_performance ORDER BY return_pct DESC LIMIT 5;
+SELECT category, COUNT(*) FROM fact_performance GROUP BY category;
+SELECT scheme_name, return_pct FROM fact_performance WHERE return_pct > 10;
+SELECT fund_house, COUNT(*) FROM fact_performance GROUP BY fund_house;
+SELECT scheme_name, return_pct FROM fact_performance WHERE plan = 'Direct';
+SELECT scheme_name, return_pct FROM fact_performance WHERE anomaly_returns = 1;
+SELECT period, COUNT(*) FROM fact_performance GROUP BY period;
+SELECT DISTINCT fund_house FROM fact_performance;
+SELECT category, AVG(return_pct) FROM fact_performance GROUP BY category;
+SELECT scheme_name,return_pct, fund_house FROM fact_performance;
