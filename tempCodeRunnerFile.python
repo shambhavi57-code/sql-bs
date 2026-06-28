@@ -1,17 +1,15 @@
 import pandas as pd
-import os
-from sqlalchemy import create_engine
-engine = create_engine('sqlite:///bluestock_mf.db')
-data_map = {
-    'fact_nav': 'data/processed/02_nav_history_clean.csv',
-    'fact_transactions': 'data/processed/08_investor_transactions_clean.csv',
-    'fact_performance': 'data/processed/scheme_performance_clean.csv'
-}
-for table, path in data_map.items():
-    if os.path.exists(path):
-        df = pd.read_csv(path)
-        # Usi
-        df.to_sql(table, engine, if_exists='append', index=False)
-        print(f"Loaded {path} into {table}")
-    else:
-        print(f"Skipping {path}: File not found.")
+import numpy as np
+from scipy import stats
+from pathlib import Path
+BASE_DIR = Path(__file__).parent
+df = pd.read_excel(BASE_DIR / 'data' / 'processed' / '02_nav_history_clean.xlsx', index_col='Date')
+returns = df.pct_change() 
+def calculate_cagr(start_nav, end_nav, years):
+    return (end_nav / start_nav) ** (1 / years) - 1
+rf = 0.065 / 252 
+excess_returns = returns - rf
+sharpe_ratio = (excess_returns.mean() / returns.std()) * np.sqrt(252)
+downside_returns = returns[returns < 0]
+downside_std = downside_returns.std()
+sortino_ratio = (returns.mean() - rf) / downside_std * np.sqrt(252)
